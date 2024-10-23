@@ -8,6 +8,6 @@ public class FuncionarioConferente extends Funcionario{
     }
 
     public String getDescricaoCargo() {
-        return "Entregador";
+        return "Conferente";
     }
 }
